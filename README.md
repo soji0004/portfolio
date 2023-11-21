@@ -10,7 +10,9 @@ Whole working on this project I struggled with....
 It was a good learing experience, I get to work with...
 
 ## Frameworks and Libraries
-[Bootstrap](https://getbootstrap.com/)
-[GliderJS](https://glidejs.com/)
+-[Bootstrap](https://getbootstrap.com/)
+-[GliderJS](https://glidejs.com/)
 
 ## External REsources
+-[Roboto Font](https://fonts.google.com/specimen/Roboto?query=roboto)
+-[Font Awesome](https://fontawesome.com/)
