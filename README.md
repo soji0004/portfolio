@@ -13,6 +13,6 @@ It was a good learing experience, I get to work with...
 -[Bootstrap](https://getbootstrap.com/)
 -[GliderJS](https://glidejs.com/)
 
-## External REsources
+## External Resources
 -[Roboto Font](https://fonts.google.com/specimen/Roboto?query=roboto)
 -[Font Awesome](https://fontawesome.com/)
